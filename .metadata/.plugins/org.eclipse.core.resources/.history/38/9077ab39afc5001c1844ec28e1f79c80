@@ -1,0 +1,6 @@
+package snippet;
+
+public class Snippet {
+	git remote add origin https://github.com/prabinkunwar/Java_Exercises.git
+}
+
